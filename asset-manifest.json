@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/saravindswamy/productionparenttochild/static/css/main.706d9023.chunk.css",
+    "main.js": "/saravindswamy/productionparenttochild/static/js/main.a6b02122.chunk.js",
+    "main.js.map": "/saravindswamy/productionparenttochild/static/js/main.a6b02122.chunk.js.map",
+    "runtime-main.js": "/saravindswamy/productionparenttochild/static/js/runtime-main.985c3279.js",
+    "runtime-main.js.map": "/saravindswamy/productionparenttochild/static/js/runtime-main.985c3279.js.map",
+    "static/js/2.8c90add2.chunk.js": "/saravindswamy/productionparenttochild/static/js/2.8c90add2.chunk.js",
+    "static/js/2.8c90add2.chunk.js.map": "/saravindswamy/productionparenttochild/static/js/2.8c90add2.chunk.js.map",
+    "static/js/3.9c0c795e.chunk.js": "/saravindswamy/productionparenttochild/static/js/3.9c0c795e.chunk.js",
+    "static/js/3.9c0c795e.chunk.js.map": "/saravindswamy/productionparenttochild/static/js/3.9c0c795e.chunk.js.map",
+    "index.html": "/saravindswamy/productionparenttochild/index.html",
+    "static/css/main.706d9023.chunk.css.map": "/saravindswamy/productionparenttochild/static/css/main.706d9023.chunk.css.map",
+    "static/js/2.8c90add2.chunk.js.LICENSE.txt": "/saravindswamy/productionparenttochild/static/js/2.8c90add2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.985c3279.js",
+    "static/js/2.8c90add2.chunk.js",
+    "static/css/main.706d9023.chunk.css",
+    "static/js/main.a6b02122.chunk.js"
+  ]
+}
